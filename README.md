@@ -2,7 +2,7 @@
 
 ### Usage
 
-> `https://disco.multidaomensional.workers.dev/sse`
+> https://disco.multidaomensional.workers.dev/sse
 
 Add the server URL to your MCP client.
 
